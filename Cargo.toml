@@ -1,5 +1,5 @@
 [package]
-name = "empty-cargo-library"
+name = "workspace-hack"
 version = "0.1.0"
 edition = "2021"
 author = ["Parsa Ghadimi <parsa@fleek.co>"]
