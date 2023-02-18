@@ -1,0 +1,9 @@
+[package]
+name = "empty-cargo-library"
+version = "0.1.0"
+edition = "2021"
+author = ["Parsa Ghadimi <parsa@fleek.co>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
